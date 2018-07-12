@@ -3,11 +3,10 @@
 	"version": "0.0.1",
 	"description": "Create a revved file path",
 	"license": "MIT",
-	"repository": "sindresorhus/rev-path",
+	"repository": "https://github.com/sunlei4076/rev-path/tree/v%3D",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "sun4076",
+		"email": "973797201@qq.com"
 	},
 	"engines": {
 		"node": ">=4"
